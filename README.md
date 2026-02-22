@@ -1,204 +1,165 @@
-✈️ SkyLift Airlines – Loyalty Campaign Performance Analysis
-Project Elevate | Diagnostic Analytics Case Study
-📌 Project Overview
+# ✈️ SkyLift Airlines – Loyalty Campaign Performance Analysis  
+### Project Elevate | Diagnostic Analytics Case Study
 
-SkyLift Airlines launched Project Elevate, a targeted loyalty campaign aimed at strengthening customer enrollment and engagement ahead of the critical summer travel season.
+## 📌 Overview
+SkyLift Airlines launched **Project Elevate**, a targeted loyalty campaign designed to strengthen customer enrollment and engagement ahead of the high-stakes **summer travel season**.  
 
-This project evaluates whether the campaign:
+This project evaluates whether the campaign meaningfully influenced:
+- Loyalty enrollment behavior  
+- Early customer engagement  
+- Summer booking performance  
+- Incremental demand generation  
+- Customer quality and revenue relevance  
 
-Altered loyalty enrollment patterns
+The analysis is delivered through a **Power BI diagnostic dashboard**, supported by behavioral and engagement metrics.
 
-Attracted more engaged, high-intent customers
+---
 
-Drove meaningful summer booking impact
+## 🎯 Business Objectives
+This analysis addresses five core business questions:
 
-Generated incremental demand rather than shifting existing bookings
+1. Did the campaign alter loyalty enrollment patterns?  
+2. Do campaign-acquired members behave differently early on?  
+3. Did the campaign drive summer booking impact?  
+4. Was demand incremental or simply shifted in time?  
+5. Did the campaign attract the “right” customers?  
 
-The analysis is presented through a Power BI diagnostic dashboard, supported by behavioral and engagement metrics.
+---
 
-🎯 Objectives
-
-The key business questions addressed in this analysis are:
-
-Did the campaign change loyalty enrollment behavior?
-
-Do campaign-acquired members behave differently early on?
-
-Did the campaign influence summer booking performance?
-
-Was demand incremental or simply shifted in time?
-
-Did the campaign attract the “right” customers?
-
-📊 Data & Methodology
-Data Sources
-
-Only datasets provided by the organizers were used:
-
-Customer Loyalty Data – enrollment status, cancellations, campaign participation
-
-Customer Flight Activity – flights per month, distance traveled, loyalty redemptions
-
-Calendar Table – time alignment and seasonality analysis
+## 📊 Data Used
+Only organizer-provided datasets were used in this analysis:
+- **Customer Loyalty Data** – enrollment status, cancellations, campaign participation  
+- **Customer Flight Activity** – flights per month, distance traveled, loyalty redemptions  
+- **Calendar Table** – time alignment for trends and seasonality  
 
 📎 No external data sources were used.
 
-Analytical Approach
+---
 
-Diagnostic (descriptive + comparative) analysis
+## 🧠 Methodology
+- Diagnostic (descriptive and comparative) analysis  
+- Campaign vs non-campaign cohort comparisons  
+- Engagement and value proxies (flight frequency, distance, redemptions)  
+- Pre-, during-, and post-campaign trend analysis  
 
-Campaign vs non-campaign member comparisons
+All insights were developed using **Power BI**.
 
-Behavioral proxies for engagement and value
+---
 
-Trend analysis across pre-campaign, campaign, and post-campaign periods
+## 🔍 Key Findings
 
-All insights were generated using Power BI.
+### 1️⃣ Loyalty Enrollment Impact
+- Loyalty enrollments increased during the campaign period.
+- Cancellation levels remained relatively stable.
+- Net enrollment growth was positive but controlled.
 
-🔍 Key Findings
-1️⃣ Loyalty Enrollment Impact
+**Conclusion:**  
+The campaign influenced enrollment timing while maintaining loyalty program stability.
 
-Loyalty enrollments increased during the campaign period
+---
 
-Cancellation levels remained stable, preventing artificial inflation
+### 2️⃣ Early Engagement Behavior
+- Campaign-acquired members showed higher average flights per active month.
+- Loyalty redemption activity occurred earlier among campaign members.
+- Although cohort size was smaller, engagement quality was higher.
 
-Net enrollment growth was positive but controlled
+**Conclusion:**  
+Campaign members exhibited stronger early-stage engagement than historical members.
 
-Conclusion:
-The campaign influenced enrollment timing while maintaining program stability.
+---
 
-2️⃣ Early Engagement Behavior
+### 3️⃣ Summer Booking Performance
+- Campaign participants contributed a measurable share of summer bookings.
+- Higher average distance per flight suggests preference for longer or higher-value routes.
+- Loyalty redemption during summer indicates sustained engagement.
 
-Campaign members showed higher average flights per active month
+**Conclusion:**  
+The campaign aligned effectively with SkyLift’s most critical revenue window.
 
-Early loyalty redemptions occurred sooner among campaign members
+---
 
-Despite smaller cohort size, engagement quality was higher
+### 4️⃣ Incremental Demand vs Shifted Bookings
+- Booking volumes increased during the campaign without a sharp post-campaign decline.
+- Post-campaign demand normalized rather than collapsing.
+- No strong evidence of demand being pulled forward.
 
-Conclusion:
-Campaign-acquired members exhibit stronger early-stage engagement.
+**Conclusion:**  
+Project Elevate generated incremental or accelerated demand rather than shifted bookings.
 
-3️⃣ Summer Booking Performance
+---
 
-Campaign participants contributed a measurable share of summer bookings
+### 5️⃣ Strategic Customer Quality Assessment
+- Higher engagement intensity and longer routes indicate revenue-relevant travelers.
+- Campaign members were not purely incentive-driven.
+- Campaign contribution to total bookings remains scalable.
 
-Higher average distance per flight suggests longer or higher-value routes
+**Conclusion:**  
+The campaign successfully attracted high-quality customers, with room to expand reach.
 
-Continued loyalty redemption during peak season indicates sustained engagement
+---
 
-Conclusion:
-The campaign successfully aligned with SkyLift’s most critical revenue window.
-
-4️⃣ Incremental Demand vs Shifted Bookings
-
-Booking volumes increased during the campaign without a sharp post-campaign drop
-
-Post-campaign demand normalized rather than collapsing
-
-No strong evidence of demand being pulled forward
-
-Conclusion:
-Project Elevate generated incremental or accelerated demand, not just shifted bookings.
-
-5️⃣ Strategic Customer Quality Assessment
-
-Campaign members showed higher engagement intensity
-
-Behavior suggests genuine travel intent, not bargain-driven sign-ups
-
-Campaign still represents a smaller share of total bookings
-
-Conclusion:
-The campaign successfully attracted high-quality customers, with room to scale reach.
-
-📈 Key KPIs Tracked
-
-Campaign Enrollment Rate
-
-Average Flights per Campaign Member
-
-Campaign Share of Summer Bookings
-
-Average Distance per Flight (Summer)
-
-Loyalty Redemption Activity
+## 📈 Key KPIs
+- Campaign Enrollment Rate  
+- Average Flights per Campaign Member  
+- Campaign Share of Summer Bookings  
+- Average Distance per Flight (Summer)  
+- Loyalty Redemption Activity  
 
 These KPIs reinforce the diagnostic insights shown in the dashboard.
 
-🧠 Insights & Recommendations
-What Worked
+---
 
-Influenced enrollment without increasing churn risk
+## 💼 Business Impact
 
-Attracted more engaged, travel-ready customers
+The findings from **Project Elevate** demonstrate how targeted loyalty campaigns can drive high-quality engagement rather than short-term enrollment spikes.
 
-Maintained relevance during peak travel season
+### 📈 Revenue Relevance
+- Campaign-acquired members flew more frequently per active month.
+- Higher average distance per flight during summer suggests higher-value travel.
+- Sustained loyalty redemptions indicate continued usage beyond enrollment.
 
-What Can Improve
+**Impact:**  
+The campaign aligned loyalty enrollment with revenue-generating travel behavior during peak season.
 
-Expand campaign reach among similar high-value segments
+---
 
-Improve conversion from enrollment to booking volume
+### 🎯 Customer Quality Over Quantity
+- Enrollment growth occurred without increasing cancellation risk.
+- Behavioral signals reflect genuine travel intent, not incentive-driven sign-ups.
+- Early engagement patterns suggest stronger long-term value potential.
 
-Recommendation
+**Impact:**  
+The campaign attracted travel-ready, high-intent customers instead of low-value sign-ups.
 
-Future loyalty campaigns should prioritize engagement depth and behavioral quality, supported by targeted outreach during peak demand periods.
+---
 
-🛠 Tools Used
+### 🔄 Demand Generation Efficiency
+- Booking volume increased during the campaign without post-campaign drop-off.
+- No evidence of demand being shifted from future periods.
 
-Power BI – Dashboarding & visualization
+**Impact:**  
+Project Elevate generated incremental demand rather than redistributing existing bookings.
 
-Excel – Initial data review
+---
 
-📄 Compliance Statement
+## 📊 Dashboard Preview
+<img src="https://raw.githubusercontent.com/Sanskritid05/SkyLift-Airlines-Loyalty-Campaign-Performance-Analysis/802d871b3a36811e6da5edfdc923328cd8d5fb1d/Screenshot%202026-02-21%20001412.png" width="800">
 
-This project strictly uses organizer-provided datasets.
-All analysis outputs are reproducible using the supplied data and Power BI.
+---
 
-💼 Business Impact
+## 🛠 Tools & Technologies
+- **Power BI** – Dashboarding & visualization  
+- **SQL / DAX** – Data modeling and measures  
+- **Excel** – Initial data review  
 
-The findings from Project Elevate provide actionable insights into how targeted loyalty campaigns can drive high-quality customer engagement rather than short-term volume spikes.
+---
 
-📈 Revenue Relevance
+## 📄 Compliance Statement
+This project strictly uses organizer-provided datasets.  
+All analysis outputs were generated using Power BI and are reproducible from the supplied data.
 
-Campaign-acquired members demonstrated higher engagement intensity, flying more frequently per active month.
+---
 
-Higher average distance per flight during the summer season suggests preference for longer or higher-value routes.
-
-Continued loyalty redemption during peak season indicates sustained usage, not one-time promotional behavior.
-
-Impact:
-The campaign successfully aligned loyalty enrollment with revenue-relevant travel behavior, improving the quality of demand during SkyLift’s most critical revenue window.
-
-🎯 Customer Quality Over Quantity
-
-Net enrollments grew steadily without a rise in cancellations, protecting loyalty program health.
-
-Campaign members were not purely incentive-driven; behavioral signals indicate genuine travel intent.
-
-Early engagement patterns suggest higher long-term value potential compared to historical cohorts.
-
-Impact:
-Instead of inflating the loyalty base with low-intent users, the campaign attracted travel-ready, high-intent customers, improving the long-term value of the loyalty program.
-
-🔄 Demand Generation Efficiency
-
-Booking volumes increased during the campaign period without a sharp post-campaign decline.
-
-No strong evidence of bookings being pulled forward from future periods.
-
-Impact:
-This indicates incremental or accelerated demand, meaning the campaign added real value rather than redistributing existing bookings.
-
-🚀 Strategic Takeaways for Future Campaigns
-
-Scale similar campaigns toward segments showing early engagement and longer-route preferences.
-
-Optimize post-enrollment nudges to convert high-quality sign-ups into higher booking volumes.
-
-Use engagement-focused KPIs (not just enrollment counts) to evaluate campaign success.
-
-👤 Author
-
-Sanskriti Dutta
+## 👤 Author
+**Sanskriti Dutta**  
 Team Lead – TeamSV
